@@ -29,3 +29,19 @@ let stringNumber = String(someNumber)
 
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+
+// ************************* Operations *************************
+
+// console.log(3 + 4);
+// console.log(3 - 4);
+// console.log(3 * 4);
+// console.log(3 ** 4);
+// console.log(3 / 4);
+// console.log(3 % 4);
+
+str1 = "Hello"
+str2 = " World"
+
+str3 = str1 + str2
+console.log(str3);
